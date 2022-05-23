@@ -1,5 +1,5 @@
 === Storefront ===
-Contributors: automattic, tiagonoronha, jameskoster
+Contributors: sikander
 Requires at least: 5.3.4
 Tested up to: 5.7.0
 Stable tag: 3.7.0
